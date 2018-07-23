@@ -11,21 +11,21 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://192.168.1.7/bbxUser.ipa</string>
+					<string>https://github.com/alongisme/upload/edit/master/test.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.kuanyinkj.bbx.user</string>
+				<string>com.weimikeji.bobi</string>
 				<key>bundle-version</key>
-				<string>1.1.1</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>releaseNotes</key>
-				<string>1.1版本发布</string>
+				<string>哈哈哈哈啊哈</string>
 				<key>title</key>
-				<string>bbxUser</string>
+				<string>bobi</string>
 			</dict>
 		</dict>
 	</array>
